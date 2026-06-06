@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">St. Lawrence S.S Ssonde logo</title>
+  <desc id="desc">Maroon and gold school monogram badge</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8e1b1b"/>
+      <stop offset="100%" stop-color="#6f1313"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="url(#g)"/>
+  <circle cx="64" cy="64" r="46" fill="#f5e6d3" opacity="0.96"/>
+  <text x="64" y="72" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="34" font-weight="700" fill="#8e1b1b">SL</text>
+</svg>
